@@ -1,0 +1,11 @@
+[INFO] 15:26:59:976 Servidor/(6653:6653): Listo para escuchar a mi cliente
+[INFO] 15:26:59:977 Servidor/(6653:6653): Servidor listo para recibir al cliente
+[INFO] 15:26:59:978 Servidor/(6653:6653): Accept()!
+[INFO] 15:27:09:115 Servidor/(6653:6653): Se conecto un cliente!
+[INFO] 15:27:09:115 Servidor/(6653:6653): Me llego el mensaje value
+[INFO] 15:27:35:878 Servidor/(6653:6653): Me llegaron los siguientes valores:
+
+[INFO] 15:27:35:880 Servidor/(6653:6653): como va
+[INFO] 15:27:35:880 Servidor/(6653:6653): todo bien
+[INFO] 15:27:35:882 Servidor/(6653:6653): llega esto al sv?
+[ERROR] 15:27:35:882 Servidor/(6653:6653): el cliente se desconecto. Terminando servidor
